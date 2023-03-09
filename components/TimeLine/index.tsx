@@ -67,9 +67,9 @@ const list = [
       zhTitle:
          '2018 我 24 岁，上半年和朋友创业小程序，下半年到了掌门一对一继续做前端',
       zhDesc:
-         '在上海七宝老街对面，我和仟传的前同事，加我一共 4 个人，我做前端，两位后端，还有一位女生负责运营，折腾了半年，最后又各自找班上去了=。=，还是太年轻了，没有流量，没有资源，没有想清楚商业模式，只剩下创意时的分歧，和一腔热情了，映像比较深的是，当时我们尝试做了一个相亲小程序，里面都是假数据，竟然有人选择充钱了=、=',
+         '在上海七宝老街对面，我和仟传的前同事，加我一共 4 个人，我做前端，两位后端，还有一位女生负责运营，折腾了半年，最后又各自找班上去了=。=，还是太年轻了，没有流量，没有资源，没有想清楚商业模式，只剩下创意时的分歧，和一腔热情了，映像比较深的是，当时我们尝试做了一个相亲小程序，里面都是假数据，竟然有人选择充钱了=、=；后来分开，同年我去了掌门一对一，年底竟然遇到国家 k12 线上教育禁令，当时整层楼的人被辞退，我办离职手续的时候，队伍排的一眼望不到头，运气真好=。=',
       title: 'I was 24 years old in 2018. In the first half of the year, I started a small program with my friends. In the second half of the year, I went to the master and continued to work on the front end one-on-one',
-      desc: 'On the opposite side of Qibao Old Street in Shanghai, my ex-colleague of Qian Chuan and I, including me, have a total of 4 people. I am the front-end, two back-ends, and a girl is in charge of the operation. After half a year of tossing around, they each find their own class. =.=, still too young, no traffic, no resources, no clear business model, only differences in creativity, and enthusiasm. The deeper image is that we tried to do a blind date at that time The program contains fake data, and someone actually chooses to recharge =, =',
+      desc: "Opposite Qibao Old Street in Shanghai, my former colleague Qian Chuan and I added a total of 4 people. I was the front-end, two back-ends, and a girl was in charge of the operation. After half a year of tossing around, I finally went to the same class =. =, still too young, no traffic, no resources, no clear business model, only differences in creativity, and enthusiasm. The deeper image is that we tried to make a blind date program at that time. It’s all fake data, and someone actually chose to recharge =, =; later separated, I went to the head of the one-on-one in the same year, and at the end of the year, I encountered the national k12 online education ban. At that time, the entire floor was dismissed. During the resignation procedure, the line is so long that you can't see the end at a glance, so lucky =. =",
    },
    {
       zhTitle:
@@ -89,9 +89,9 @@ const list = [
    {
       zhTitle: '2023 我 29 岁，回到了金禾，开始的地方',
       zhDesc:
-         '又和老华一起上班了，冥冥中自有天意一样，公司是 toG 的业务，大概率不会太忙，今后除了工作以外，要多关注一些家人，慢慢让自己的生活变得丰富起来，未来会更好的',
+         '又和老华一起上班了，冥冥中自有天意一样，不过现在我有一个唬人的 title 了：前端技术架构师=。=，真像做了一场梦啊；公司是 toG 的业务，大概率不会太忙，今后除了工作以外，要多关注一些家人，慢慢让自己的生活变得丰富起来，未来会更好的',
       title: '2023 I am 29 years old and I am back at Jinhe, where I started',
-      desc: 'I went to work with Laohua again. It’s God’s will in the dark. The company is toG’s business, and there is a high probability that it will not be too busy. In the future, besides work, I should pay more attention to my family and gradually enrich my life. , the future will be better',
+      desc: 'I went to work with Lao Hua again, and it was God’s will in the dark, but now I have a bluffing title: front-end technical architect =. =, It’s really like a dream; the company is a toG business, so there’s a high probability that it won’t be too busy. In the future, besides work, you should pay more attention to your family and slowly enrich your life. The future will be even better of',
    },
 ]
 
