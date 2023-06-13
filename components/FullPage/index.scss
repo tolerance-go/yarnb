@@ -1,0 +1,17 @@
+.FullPage {
+  &__menu {
+    backdrop-filter: saturate(50%) blur(8px);
+    background: hsla(0, 0%, 100%, 0);
+  }
+}
+
+#fp-nav.fp-right {
+  right: 2px !important;
+}
+
+@media (min-width: 640px) {
+  #fp-nav.fp-right {
+    right: 17px !important;
+  }
+}
+
